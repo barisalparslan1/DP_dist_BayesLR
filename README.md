@@ -1,6 +1,6 @@
 # DP_dist_BayesLR
 
-**MMD results**
+**Maximum Mean Discrepancy (MMD) results**
 
 J=1                        |  J=5                      |  J=10
 :-------------------------:|:-------------------------:|:-------------------------:
