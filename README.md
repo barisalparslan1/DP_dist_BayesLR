@@ -1,7 +1,5 @@
 # DP_dist_BayesLR
 
-<img src="img/fig1.jpg"  style="width:400px;height:auto;"/>
-
 MMD results:
 
 J=1                        |  J=5                      |  J=10
